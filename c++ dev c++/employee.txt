@@ -1,0 +1,1 @@
+In C++,files are mainly dealt by using three classes fstream,ifstream,ofstream avialable in fstream headerfile.;Ofstream: stream class to write on files.;Ifstream: stream class to read from files.;   fstream: stream class to both read and write from /to files.
